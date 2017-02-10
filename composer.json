@@ -2,7 +2,7 @@
     "name": "abdallah.elsabeeh/yii2-comments-extension",
     "description": "easy comments extension using ajax",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","comments","abdallah","abdallah.elsabeeh"],
+    "keywords": ["yii2", "extension", "comments", "abdallah", "abdallah.elsabeeh"],
     "license": "Apache-2.0",
     "authors": [
         {
@@ -17,11 +17,11 @@
         "psr-4": {
             "abdallah\\comments\\": ""
         }
-    }
-    "repositories":[
-    {
-        "type": "git",
-        "url": "https://github.com/zaxx44a7/yii2-comments-extension"
-    }
-]
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/zaxx44a7/yii2-comments-extension"
+        }
+    ]
 }
