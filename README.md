@@ -27,5 +27,7 @@ Usage
 
 Once the extension is installed, simply use it in your code by  :
 
-```php
-<?= \abdallah\comments\AutoloadExample::widget(); ?>```
+```
+php
+<?= \abdallah\comments\AutoloadExample::widget(); ?>
+```
